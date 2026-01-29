@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Wesam 👋
 
-<!--
-**wesamkanim/wesamkanim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a life sciences and engineering professional passionate about applying machine learning and deep learning to solve complex biomedical problems. My work focuses on building practical, data-driven tools that support research, diagnostics, and next-generation healthcare technologies.
 
-Here are some ideas to get you started:
+## 🔬 Areas of Interest
+- Biomedical Machine Learning  
+- Medical Imaging & Computer Vision  
+- Next-Generation Sequencing (NGS) technologies  
+- Process engineering in biotech manufacturing  
+- Translational science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+**Diabetic Retinopathy Detection Using PyTorch and ResNet**  
+Developed a deep learning model leveraging transfer learning to classify retinal images and support early detection of diabetic retinopathy.
+
+**Cancer Microenvironment Classification Using ANN and PyTorch**  
+Built a neural network to analyze tumor microenvironment patterns from imaging data, enabling improved characterization of cancer biology.
+
+## 🛠 Technical Skills
+**Languages:** Python, SQL, Java, Assembly, C++
+**Frameworks:** PyTorch, TensorFlow (basic)
+**Tools:** Git, Jupyter, MATLAB
+**Methods:** Deep Learning, Image
+Classification, Data Analysis, Experimental Design  
+
+## 🌱 Currently Growing In
+- Advanced deep learning architectures  
+- MLOps and model deployment  
+- AI applications in clinical settings  
+
+## 🤝 Let's Connect
+I enjoy collaborating on projects at the intersection of biology, engineering, and artificial intelligence.
+
+📫 Reach me on LinkedIn: https://www.linkedin.com/in/wesam-kanim
