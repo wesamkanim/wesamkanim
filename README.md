@@ -19,7 +19,7 @@ Built a neural network to analyze tumor microenvironment patterns from imaging d
 ## 🛠 Technical Skills
 **Languages:** Python, SQL, Java, Assembly, C++
 **Frameworks:** PyTorch, TensorFlow (basic)
-**Tools:** Git, Jupyter, MATLAB
+**Tools:** Git, Jupyter, MATLAB 
 **Methods:** Deep Learning, Image
 Classification, Data Analysis, Experimental Design  
 
